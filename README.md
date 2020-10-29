@@ -1,0 +1,1 @@
+Using <figure> tag to enclose to upload image to web pagegit add
